@@ -1,1 +1,1 @@
-# Calculadora-de-IMC-em-Python
+# Calculadora de IMC em Python
